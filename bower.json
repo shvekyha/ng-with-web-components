@@ -1,0 +1,20 @@
+{
+  "name": "ng-with-web-components",
+  "description": "",
+  "main": "",
+  "authors": [
+    "hadas <hadas@xmpie.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "paper-elements": "^1.0.7"
+  }
+}
