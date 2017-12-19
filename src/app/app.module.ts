@@ -13,7 +13,7 @@ import { AppComponent } from './app.component';
   declarations: [
     AppComponent,
     //PolymerElement('vaadin-combo-box'),
-    //PolymerElement('paper-input')
+    PolymerElement('paper-input')
   ],
   imports: [
     BrowserModule,
